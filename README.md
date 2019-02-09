@@ -3,4 +3,4 @@ Bike travel time map and fast food restaurants in Seoul, South Korea. Which fast
 
 https://williamtjiong.github.io/city-isochrone/
 
-Kudos to [Geoff Boeing](https://github.com/gboeing/osmnx) for developing this amazing and extensive OpenStreetMap network Python library!
+*Kudos to [Geoff Boeing](https://github.com/gboeing/osmnx) for developing this amazing and extensive OpenStreetMap network Python library!
